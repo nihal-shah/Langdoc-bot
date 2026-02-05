@@ -10,5 +10,5 @@ understaning code for how chuncking is working underhood
 25/1/26-3/2/26
 there are many different types of chuncking but which one to use and why even to use this we need to understand how the llm work internally so now we are reading how it the llm, which was till now a black box, work internally.
 
-4/2/26
-understanding hugging face framework
+4/2/26 - 5/2/26
+learning how to use hugging face framework
