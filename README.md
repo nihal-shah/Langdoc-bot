@@ -13,5 +13,5 @@ there are many different types of chuncking but which one to use and why even to
 4/2/26 - 11/2/26
 learning how to use hugging face framework
 
-12/2/26-13/2/26
+12/2/26-14/2/26
 maths
