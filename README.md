@@ -15,3 +15,6 @@ learning how to use hugging face framework
 
 12/2/26-17/2/26
 maths
+
+18/2/16
+pytorch using book D2L
