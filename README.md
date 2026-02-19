@@ -18,3 +18,6 @@ maths
 
 18/2/16
 pytorch using book D2L
+
+19/2/16
+today i learned about Broadcasting, Saving Memory, Conversion to Other Python Objects, Summary, Exercises.
