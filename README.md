@@ -16,8 +16,11 @@ learning how to use hugging face framework
 12/2/26-17/2/26
 maths
 
-18/2/16
+18/2/26
 pytorch using book D2L
 
-19/2/16
-today i learned about Broadcasting, Saving Memory, Conversion to Other Python Objects, Summary, Exercises.
+19/2/26
+today i learned about Broadcasting, Saving Memory, Conversion to Other Python Objects, Summary and did Exercises for practice.
+
+20/2/26
+Today I learned about linear algebra in Pytorch
