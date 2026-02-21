@@ -24,3 +24,6 @@ today i learned about Broadcasting, Saving Memory, Conversion to Other Python Ob
 
 20/2/26
 Today I learned about linear algebra in Pytorch
+
+21/2/26
+Today I learned basic of trigno, what sin,cos mean why we really need other 4 and what are complement angle and its derivation.
