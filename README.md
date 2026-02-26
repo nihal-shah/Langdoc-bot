@@ -31,5 +31,5 @@ Today I learned basic of trigno, what sin,cos mean why we really need other 4 an
 22/2/26 - 23/2/26
 Today I documented about angles
 
-24/2/26-25/2/26
+24/2/26-26/2/26
 Today I learned about buffer, context manager in python.
