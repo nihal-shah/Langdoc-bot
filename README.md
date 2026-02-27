@@ -32,4 +32,7 @@ Today I learned basic of trigno, what sin,cos mean why we really need other 4 an
 Today I documented about angles
 
 24/2/26-26/2/26
-Today I learned about buffer, context manager in python.
+Today I learned about buffer, context manager in python. also completed Linear Algebra 
+
+27/2/26
+revision of Data Manuplation and Linear ALgebra. also created Docs for Linear Algebra.
