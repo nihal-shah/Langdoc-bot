@@ -36,3 +36,6 @@ Today I learned about buffer, context manager in python. also completed Linear A
 
 27/2/26
 revision of Data Manuplation and Linear ALgebra. also created Docs for Linear Algebra.
+
+28/2/26
+Learn basic of Google ADK basic
