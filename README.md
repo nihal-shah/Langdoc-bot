@@ -45,3 +45,6 @@ saw how we can implement a custom tool in ADK. also came to know that we can als
 
 2/3/26-3/3/26
 learing about agent team and streaming agent
+
+4/3/26
+implemented a agent zoo agent.
