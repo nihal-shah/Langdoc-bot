@@ -48,3 +48,6 @@ learing about agent team and streaming agent
 
 4/3/26
 implemented a agent zoo agent.
+
+5/3/26
+MCP agent for google maps and Bigquery
