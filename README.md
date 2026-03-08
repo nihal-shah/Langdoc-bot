@@ -52,5 +52,5 @@ implemented a agent zoo agent.
 5/3/26
 MCP agent for google maps and Bigquery
 
-7/3/26
-DSA first video learning about complexity.
+7/3/26 - 8/3/26
+DSA first video learning about complexity and insertion sort and merge sort.
