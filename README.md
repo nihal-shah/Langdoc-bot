@@ -54,3 +54,6 @@ MCP agent for google maps and Bigquery
 
 7/3/26 - 8/3/26
 DSA first video learning about complexity and insertion sort and merge sort.
+
+9/3/26
+Working on Google skill lab Connect to Remote Agents with ADK and the Agent2Agent (A2A) SDK.
