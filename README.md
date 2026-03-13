@@ -62,4 +62,7 @@ Working on Google skill lab Connect to Remote Agents with ADK and the Agent2Agen
 documented DSA first video. pending last 40min.
 
 11/3/26-12/3/26
-Reading Langchain Docs from https://docs.langchain.com/oss/python/langchain/agents
+Reading Langchain Docs from https://docs.langchain.com/oss/python/langchain/Agents
+
+13/3/26
+Figuring out what to do for where we want to reach
