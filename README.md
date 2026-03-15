@@ -68,4 +68,7 @@ Reading Langchain Docs from https://docs.langchain.com/oss/python/langchain/Agen
 Figuring out what to do for where we want to reach
 
 14/3/26
-Building Effective Agents: Anthropic
+Building Effective Agents: Anthropic.
+
+15/3/26
+Basic of Workflow Anthropic.
