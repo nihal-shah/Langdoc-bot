@@ -72,3 +72,6 @@ Building Effective Agents: Anthropic.
 
 15/3/26
 Basic of Workflow Anthropic.
+
+16/3/26 
+Understanding Working with RAG on different data structure.
