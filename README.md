@@ -75,3 +75,6 @@ Basic of Workflow Anthropic.
 
 16/3/26 - 18/3/26
 Understanding Working with RAG on different data structure.
+
+19/3/26
+will decide what to do and then update latter
