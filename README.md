@@ -78,3 +78,6 @@ Understanding Working with RAG on different data structure.
 
 19/3/26
 will decide what to do and then update latter
+
+21/3/26
+mcp server.
