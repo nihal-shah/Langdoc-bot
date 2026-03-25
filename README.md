@@ -81,3 +81,6 @@ will decide what to do and then update latter
 
 21/3/26 -24/3/26
 mcp server.
+
+25/3/26
+JSON-RPC working and Solving the myth behind TCPIP and OSI
