@@ -85,5 +85,5 @@ mcp server.
 25/3/26
 JSON-RPC working and Solving the myth behind TCPIP and OSI
 
-26/3/26
+26/3/26 -27/3/26
 How HTTP/HTTPS, Websockets, UnixSocket, Bluetooth Works internally.
