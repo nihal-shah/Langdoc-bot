@@ -91,5 +91,5 @@ How HTTP/HTTPS, Websockets, UnixSocket, Bluetooth Works internally, SMTP.
 8/4/26, 14/4/26
 Agentic AI course
 
-22/4/26
+22/4/26 - 23/4/26
 Agentic AI course.
